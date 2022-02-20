@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Erratic annur",
+      "username": "Annur",
+      "email": "annur@gmail.com",
+      "phone": "1346444",
+      "website": "webdevs.com",
+      "id": 5
+    },
+    {
+      "name": "Demo",
+      "username": "testing",
+      "email": "demo@example.com",
+      "phone": "1-770-736-8031 x56442",
+      "website": "demo.co",
+      "id": 6
+    },
+    {
+      "name": "Cloud",
+      "username": "X",
+      "email": "cloudx@info.com",
+      "phone": "523452342",
+      "website": "cloudxlimited.com",
+      "id": 7
+    }
+  ]
+}
